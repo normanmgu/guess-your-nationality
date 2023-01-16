@@ -34,7 +34,7 @@ npm run dev
 3. Open the given localhost that the app generates for you, in my case I got http://localhost:5173/
 
 ### Deployment
-The app is currently deployed on Netlify at this link: https/futurelink.com (Note: You can't access it as it's a hypothetical link)
+The app is currently deployed on Netlify at this link: https://tiny-rabanadas-8247fb.netlify.app/ 
 
 ### Note
 - The app is using a couple of APIs, and the limit of requests to these APIs are limited. If the app is not working, it could be because the request limit has been exceeded.
